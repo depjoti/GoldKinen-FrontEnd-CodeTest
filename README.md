@@ -1,5 +1,5 @@
-#Front-End Assessment
-1. ## How to run this application on Local machine
+# Front-End Assessment
+## 1. How to run this application on Local machine
 This project made with react.
 
 1. Run the project in your local machine first you have to ***fork*** the repository then click on ***code*** button then copy the ***HTTPS link***.
